@@ -4,5 +4,5 @@ echo ":: initializing SLISC-libs-x64-MinGW"
 
 ADD="source lib_prepend.sh $PWD"
 
-$ADD/arb-flint
+$ADD/flint-3.1.3-2
 $ADD/sqlitecpp-3.2.1
